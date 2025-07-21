@@ -1,0 +1,8 @@
+torch
+transformers
+pandas
+tqdm
+Pillow
+pyarrow
+scikit-learn
+numpy
