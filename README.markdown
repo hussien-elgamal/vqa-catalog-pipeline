@@ -161,4 +161,4 @@ Contributions are welcome! Please:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
-For questions or support, contact [Hussien Elgamal](mailto:your_email@example.com) or open an issue on GitHub.
+For questions or support, contact [Hussien Elgamal](mailto:hussienelgamal8@gmail.com) or open an issue on GitHub.
